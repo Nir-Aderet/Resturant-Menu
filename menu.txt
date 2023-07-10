@@ -1,0 +1,14 @@
+Name:		Price:			Type:		Description:
+
+Lentils Soup		|	7$	|	First	|	Creamy and full of flavour.
+Fries			|	6$	|	First	|	Can't miss with our fries.
+Cheese Cake		|	6$	|	Last	|	Can't say no!
+Juice			|	2$	|	Drink	|	Tasty.
+Pickels			|	4$	|	First	|	Homemade.
+Hummus			|	4$	|	Main	|	Cheak peas paste with olive oil and Tahini.
+Vegen Burger		|	10$	|	Main	|	Our favorite.
+Mama's Ice Cream	|	8$	|	Last	|	You won't regret it!
+Chocolate Cake		|	5$	|	Last	|	No words needed.
+Water			|	0$	|	Drink	|	...
+Tea			|	2$	|	Drink	|	...
+Coffee			|	3$	|	Drink	|	...

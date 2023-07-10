@@ -1,0 +1,9 @@
+Item name:  Cheese Cake , price per unit: 6$.
+You ordered 2 units. Which is a total of 12$.
+Item name:  Pickels , price per unit: 4$.
+You ordered 2 units. Which is a total of 8$.
+Item name:  Lentils Soup , price per unit: 7$.
+You ordered 1 units. Which is a total of 7$.
+Item name:  Water , price per unit: 0$.
+You ordered 3 units. Which is a total of 0$.
+Total to pay: 27$
